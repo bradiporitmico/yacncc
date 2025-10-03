@@ -1,0 +1,5 @@
+venv/
+.work/
+src/test.py
+src/__pycache__/
+*.*~
